@@ -117,4 +117,3 @@ The project demonstrates the application of various machine learning techniques 
 
 For any questions or suggestions, feel free to reach out.
 
-For further refrence https://www.kaggle.com/code/shaazd/heart-attack-analysis-prediction
